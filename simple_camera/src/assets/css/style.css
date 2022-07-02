@@ -1,0 +1,16 @@
+.image-preview{
+    transform: rotateY(180deg);
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+}
+.btn-align{
+    display: flex;
+    align-items: center;
+}
+.btn-align svg{
+    margin-right: 5px;
+}
+.image{
+    width: 644px;
+    height: 483px;
+}
